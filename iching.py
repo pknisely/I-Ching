@@ -1,4 +1,6 @@
 import coin
+import line
+import hexagram
 
 coin_one = coin.Coin()
 coin_two = coin.Coin()
