@@ -20,12 +20,12 @@ class Line:
         
         if total_coin_val % 2 == 0:
             self.type = 'Broken'
-        else
+        else:
             self.type = 'Solid'
 
         if total_coin_val == 6 or total_coin_val == 9:
             self.changing = True
-        else
+        else:
             self.changing = False
 
 
