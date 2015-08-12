@@ -1,5 +1,7 @@
+# Import the random library for randomizing coin flip
 import random
 
+# Coin class definition
 class Coin:
     def __init__(self, side_up = 'Heads'):
         self.side_up = side_up
