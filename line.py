@@ -1,5 +1,5 @@
 class Line:
-    def __init__(self, coin_one, coin_two, coin_three)
+    def __init__(self, coin_one, coin_two, coin_three):
 
         if coin_one.side_up == 'Heads':
             coin_one_val = 3
