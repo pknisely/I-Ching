@@ -1,3 +1,5 @@
+# This code was borrowed from the Gaddis textbook, Starting Out with Python (2nd Ed.)
+
 # Import the random library for randomizing coin flip
 import random
 
